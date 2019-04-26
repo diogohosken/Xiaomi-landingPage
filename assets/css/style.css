@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Times New Roman;
+}
+
+.hLeft{
+	font-family: perpetua;
+	color: white;
+	font-size: 30px;
+}
+
+.redeSocial{
+	padding-top: 8px;
+}
+
+.ic{
+	padding-left: 10px;
+}
+li{
+	display: inline;
+}
+
+.sect1{
+	color:white;
+	background-color:#ff3700;
+}
+
+.sect2{
+	color: black;
+}
+
+.btn1{
+	background-color: #ca1f17;
+}
+
+.sect-row-1{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.jumbotron {
+	background-color: #ff3700;
+}
